@@ -4,6 +4,8 @@
 
 Terminal colors inspired by the [Jellybeans color palette for Vim](https://github.com/nanotech/jellybeans.vim).
 
+[![asciicast](https://asciinema.org/a/41180.png)](https://asciinema.org/a/41180)
+
 ## Install
 
 With [Fisherman]
