@@ -8,6 +8,8 @@ Terminal colors inspired by the [Jellybeans color palette for Vim](https://githu
 
 ## Install
 
+Jellyfish must be installed **after** your preferred fish theme.
+
 With [Fisherman]
 
 ```
