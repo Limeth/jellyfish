@@ -10,10 +10,10 @@ Terminal colors inspired by the [Jellybeans color palette for Vim](https://githu
 
 Jellyfish must be installed **after** your preferred fish theme.
 
-With [Fisherman]
+With [fisherman]
 
 ```
-fisher i jellyfish
+fisher jellyfish
 ```
 
 To get the full, immersive Jellyfish experience, set your terminal background
@@ -27,4 +27,4 @@ Just install it. Your color scheme will change.
 [travis-badge]: https://img.shields.io/travis/Limeth/jellyfish.svg?style=flat-square
 [slack-link]: https://fisherman-wharf.herokuapp.com/
 [slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
-[Fisherman]: https://github.com/fisherman/fisherman
+[fisherman]: https://github.com/fisherman/fisherman
