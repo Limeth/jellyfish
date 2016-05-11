@@ -13,7 +13,7 @@ Jellyfish must be installed **after** your preferred fish prompt.
 With [fisherman]
 
 ```
-fisher jellyfish
+fisher limeth/jellyfish
 ```
 
 To get the full, immersive Jellyfish experience, set your terminal background
